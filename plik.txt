@@ -1,1 +1,2 @@
-wprowadzenie do gita.
+wprowadzenie do gita. 
+-dokonano zmiany.
